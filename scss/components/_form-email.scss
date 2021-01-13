@@ -25,13 +25,21 @@
             font-weight: 500;
             font-size: 1.8rem;
             line-height: 2.7rem;
-            color:$input-color;
+            color:$text-color;
 
         
 
         }
 
         &-btn{
+            display: inline-block;
+            border: none;
+            outline: none;
+            font-weight: 500;
+            border-radius: 1.2rem;
+            font-family: Poppins;
+            font-style: normal;
+            font-weight: 500;
             position: absolute;
             top: 50%;
             transform: translateY(-50%);
@@ -39,6 +47,7 @@
             padding: 1.1rem 2.7rem;
             font-size: 1.8rem;
             line-height: 2.7rem;
+            cursor: pointer;
             @media only screen and (max-width: $medium){
                 font-size: 1.4rem;
                 line-height: 2.1rem;
