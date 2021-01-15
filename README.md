@@ -24,13 +24,6 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-
-<!-- OVERVIEW -->
 
 ## Overview
 
